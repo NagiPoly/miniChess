@@ -41,3 +41,4 @@ MiniChess has several built in commands. Here's a list of them all, and their di
 `/cmds` - Prints all commands.
 
 `/version` - Prints version and credits.
+ 
